@@ -27,3 +27,9 @@
 - Configuración de entornos de desarrollo integrados (IDEs). 
 - Control de versiones con Git. 
 - Uso de herramientas para la depuración y pruebas.
+
+**Metodologia**
+El curso se desarrolla mediante clases teóricas y prácticas, con proyectos intermodulares.  
+Un cambio en readme
+Un nuevo cambio en readme
+Añadir una línea adicional al readme
